@@ -1,6 +1,6 @@
 # Face-Detection
 
-his is a Python program that uses OpenCV library to detect faces in webcam rcordings. It is based on the Haar Cascade classifier, which is a machine learning technique that uses a cascade of simple features to identify objects in an image. The program uses the pre-trained models provided by OpenCV for face detection.
+This is a Python program that uses OpenCV library to detect faces in webcam rcordings. It is based on the Haar Cascade classifier, which is a machine learning technique that uses a cascade of simple features to identify objects in video recordings. The program uses the pre-trained models provided by OpenCV for face detection.
 
 # Installation
 To run this program, you need to have Python 3 and OpenCV installed on your system. You can install OpenCV using pip:
