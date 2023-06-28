@@ -15,7 +15,7 @@ You also need to download the cascade files for face detection from the followin
 # Usage
 To use this program, you need to copy the contents of the python file and run it in your code editor.
 
-When you run the program,your default webcam will be displayed with bounding boxes around the detected faces. You can press the 'q' key to exit the program.
+When you run the program, your default webcam will be displayed with bounding boxes around the detected faces. You can press the 'q' key to exit the program.
 
 # Limitations
 This program is not perfect and may have some limitations, such as:
