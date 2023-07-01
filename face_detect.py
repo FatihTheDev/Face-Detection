@@ -20,3 +20,6 @@ while 1:
 
     if(key == 81 or key == 113):
         break
+        
+webcam.release()
+cv2.destroyAllWindows  
